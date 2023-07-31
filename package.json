@@ -1,5 +1,5 @@
 {
-	"name": "pizza-api",
+	"name": "all-things-pizza-api",
 	"version": "1.0.0",
 	"description": "API Routes for pizza information",
 	"main": "server.js",
